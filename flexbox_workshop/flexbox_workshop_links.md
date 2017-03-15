@@ -21,3 +21,7 @@
 * Flexbox Workshop 4: https://codepen.io/marcosDLCS/pen/WpZpPQ
 
 # Otros
+
+* Visual Guide: https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
+* Flexbox Grid Responsive: https://scotch.io/tutorials/making-our-flexbox-grid-responsive
+* Responsive menú: https://codepen.io/SoyEva/pen/qrmpmL
